@@ -41,10 +41,16 @@
           mapTypeControl: false
         });
 
-        new google.maps.KmlLayer({
-          url: KML_URL,
-          map,
-          preserveViewport: true
+        const kmlLayer = new google.maps.KmlLayer({
+  url: KML_URL,
+  map,
+  preserveViewport: true
+});
+
+kmlLayer.addListener("status_changed", () => {
+  const status = kmlLayer.getStatus();
+  console.log("KML status:", status);
+  if (status !== "OK") alert("Error cargando KML: " + status);
         });
       }
 
