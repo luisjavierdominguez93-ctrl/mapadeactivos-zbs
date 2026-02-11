@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Mapa restringido</title>
+    <style>
+      html, body { height: 100%; margin: 0; }
+      #map { height: 100%; width: 100%; }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script>
+      const BOUNDS = {
+        south: 38.88759,
+        west:  -6.98531,
+        north: 38.90026,
+        east:  -6.96989
+      };
+
+      const CENTER = {
+        lat: (38.88759 + 38.90026) / 2,
+        lng: (-6.98531 + -6.96989) / 2
+      };
+
+      // CAMBIA TUUSUARIO y TUREPO (y el nombre del archivo si no es mapa.kml)
+      const KML_URL = "https://luisjavierdominguez93-ctrl.github.io/TUREPO/mapa.kml";
+
+      async function initMap() {
+        const { Map } = await google.maps.importLibrary("maps");
+
+        const map = new Map(document.getElementById("map"), {
+          center: CENTER,
+          zoom: 16,
+          restriction: { latLngBounds: BOUNDS, strictBounds: true },
+          minZoom: 15,
+          maxZoom: 20,
+          streetViewControl: false,
+          mapTypeControl: false
+        });
+
+        new google.maps.KmlLayer({
+          url: KML_URL,
+          map,
+          preserveViewport: true
+        });
+      }
+
+      window.initMap = initMap;
+    </script>
+
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCOUKkjy4OSpohT8xvQki3jJ1jyIGacxc&callback=initMap&v=weekly"
+    ></script>
+  </body>
+</html>
