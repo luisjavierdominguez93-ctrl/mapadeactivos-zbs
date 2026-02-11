@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ACTIVOS ZBS EL PROGRESO.</name>
+    <description/>
+    <Style id="icon-1526-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1526-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1526-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1526-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1526-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1591-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1591-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1591-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1591-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1591-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1598-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1598-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1598-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1598-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1598-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1652-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1652-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1652-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1652-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1652-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1670-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1670-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1670-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1670-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1670-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1673-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1673-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1673-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1673-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1673-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1685-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1685-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1685-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1685-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1685-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1696-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1696-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1696-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1696-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1696-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1720-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1720-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1720-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1720-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1792-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1792-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1792-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1792-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1792-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1837-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1837-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1837-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1837-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1837-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1841-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1841-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1841-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1841-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1841-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1873-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1873-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1873-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1873-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1873-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Guarderías/Colegios/Institutos</name>
+      <Placemark>
+        <name>Centro de Educación Infantil - La Luneta</name>
+        <description>Teléfono: 924 001 856</description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9798915,38.8960721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro infantil Las Acacias</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqt6Sl_yFsukGfOBjBZm0OqD2_Pg4a6UJanU0JQdxLKYrxiZv5AV8PprB1mgROBg2613nXGgEI_z6FsiOGzER3erKezNdSRSRR0uEKyW6bVRamix_e-M5Pp_7q8xG5HKynkTAD2VbAyPxpX9HDcA-sqZZ7q5OZxbzgBRalXblueTCRtD9EyyDASGop_qj2qTSq-9MZ6FWIKkk0uQ0yRLBUzwh9CfiR2RsXjoP1OIcj9OZpb0C29INPY1kA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Horario: de Lunes a Viernes de 7:30 a 15:30 h.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqu4YnLQXKeWBBU0kfB6YJWrJp0kQLYoFkbRalLQ_pCsghcAqSeZr1aJ2CF7GaryTIJHUerYd2roKjqReNsQUbaUUWDyHE_SM9boyJxC83k9EJmTiViz6t_NWU6BmfqpFe3aHll50rBjMDSkZjGn084QUuL69kvGR0P7mY-nwn3kn_jJOos_I-UmZJ9BFiwwqvUapzPPbJ9l_RAybJbqWlifdNmeRrKdOwDDdMDtGe-IpEo1c27luvJpuA?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqt6Sl_yFsukGfOBjBZm0OqD2_Pg4a6UJanU0JQdxLKYrxiZv5AV8PprB1mgROBg2613nXGgEI_z6FsiOGzER3erKezNdSRSRR0uEKyW6bVRamix_e-M5Pp_7q8xG5HKynkTAD2VbAyPxpX9HDcA-sqZZ7q5OZxbzgBRalXblueTCRtD9EyyDASGop_qj2qTSq-9MZ6FWIKkk0uQ0yRLBUzwh9CfiR2RsXjoP1OIcj9OZpb0C29INPY1kA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqu4YnLQXKeWBBU0kfB6YJWrJp0kQLYoFkbRalLQ_pCsghcAqSeZr1aJ2CF7GaryTIJHUerYd2roKjqReNsQUbaUUWDyHE_SM9boyJxC83k9EJmTiViz6t_NWU6BmfqpFe3aHll50rBjMDSkZjGn084QUuL69kvGR0P7mY-nwn3kn_jJOos_I-UmZJ9BFiwwqvUapzPPbJ9l_RAybJbqWlifdNmeRrKdOwDDdMDtGe-IpEo1c27luvJpuA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9795844,38.8981119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela de Educación Infantil Pastores de Belén</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooBdXQQcDUYoUO8mclJx9VFk2lntEjMmfgeHz_WOdqL9zIPIMEOwr1eV95YwGRMpSQRaLJupS3pg2HPxzLe8LkrJNDyJxXO-G8GytQ-OgcQ_U3UtDwNHj0HFYgrKoj75y97gkRRwML2iyyE2Mt5WOWmiygDoqzKoo5aqjRiOuxFbTGthU6pjwMBRXiZHPEQX2UaXGdM0Qr2E9jge1wLduuzgH8B-KSjvUi9IZVay-DU1FRdsf7dngNISSE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooBdXQQcDUYoUO8mclJx9VFk2lntEjMmfgeHz_WOdqL9zIPIMEOwr1eV95YwGRMpSQRaLJupS3pg2HPxzLe8LkrJNDyJxXO-G8GytQ-OgcQ_U3UtDwNHj0HFYgrKoj75y97gkRRwML2iyyE2Mt5WOWmiygDoqzKoo5aqjRiOuxFbTGthU6pjwMBRXiZHPEQX2UaXGdM0Qr2E9jge1wLduuzgH8B-KSjvUi9IZVay-DU1FRdsf7dngNISSE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9764163,38.8922366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C.E.I.P. Nuestra Señora de Fátima</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopvoS4GLi9L9lr1wP-V90rqSxHMu5C2YJLfDvqGnRHbK2l4kxOS-aWRJbCOrZ5UjP3wN_5W36WvEqmjYv3K1-0Q8hFBCEUpZxKQW7QxTfibPEYYi1hNOm-DANrJhBdg_WnZ6aSZ0GpqSbf7oNzoThOJEbuWXRB9EdzG5N2ADKgIJn1wgN2CxjzTLezTvfIo6PmxAByVlhTbhhTDPd-NP6u6EaCjfA_3FEFdAq6Vs6I4soawABhWvTXGvQY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Correo electrónico: cp.ntrasradefatimabadajo@edu.juntaex.es<br>Facebook: https://www.facebook.com/profile.php?id=100064133131759#<br>Instagram: https://www.instagram.com/colefatimabadajoz/]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopvoS4GLi9L9lr1wP-V90rqSxHMu5C2YJLfDvqGnRHbK2l4kxOS-aWRJbCOrZ5UjP3wN_5W36WvEqmjYv3K1-0Q8hFBCEUpZxKQW7QxTfibPEYYi1hNOm-DANrJhBdg_WnZ6aSZ0GpqSbf7oNzoThOJEbuWXRB9EdzG5N2ADKgIJn1wgN2CxjzTLezTvfIo6PmxAByVlhTbhhTDPd-NP6u6EaCjfA_3FEFdAq6Vs6I4soawABhWvTXGvQY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9755725,38.8916473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C.E.I.P. Santa Engracia</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopas86dFuqHE8d1jPzF18vSzRIh0G0R30RJRmhvLddtmoqaNIUcD0q9r8k0WObrrgxI_V6WC2mwso_q-aJ4npQutx6Dnnzo8qF5shIRn5e3LpxdSXYNBAaeXwBuli2fXMUN2gp4g5sXBZrXBga68fnMVeDZ2_YeesRVn-LeaM8klgiXwNkCClJ_pETXbUNvZ1BTGL_1f7fdxtqw7i3P-vvmIqlOjD54q79Uj_twNwklNNiOVilZOXWVbPM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Instagram: https://www.instagram.com/librariumsantaengracia/<br>Horario: De Lunes a Viernes de 9:00 a 15:00 h.]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopas86dFuqHE8d1jPzF18vSzRIh0G0R30RJRmhvLddtmoqaNIUcD0q9r8k0WObrrgxI_V6WC2mwso_q-aJ4npQutx6Dnnzo8qF5shIRn5e3LpxdSXYNBAaeXwBuli2fXMUN2gp4g5sXBZrXBga68fnMVeDZ2_YeesRVn-LeaM8klgiXwNkCClJ_pETXbUNvZ1BTGL_1f7fdxtqw7i3P-vvmIqlOjD54q79Uj_twNwklNNiOVilZOXWVbPM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.981,38.895601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colegio FEC Nuestra Señora de la Asunción</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop-JrKtjvgIQUo_hDWIu9x3tRiFHo79WsTa6kD3Qg6CKHTN12WtJniBhQ7W1nB5ol64tQrXTsRqyI8-g3ynufixwLJ5EDDaYgd8Uq8YXWOfKor-GFudjXGbjCVsvTwzbvif0JSpZWzUg53U51q34sXL2KzrC3aBHje7Ujym3kZBq_RXHfhcMO2orboDxV-Kowvog6Q9qm4nqDZ55xI4tQeLLJw3j2qornf_zDuDwAgVnSkIENGHh9874vk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Facebook: https://www.facebook.com/ColegioFECNSAsuncionBadajoz/?locale=es_LA<br>Instagram: https://www.instagram.com/fecnsa/<br>Horario: De Lunes a Viernes de 8:00 a 14:15 h.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqRxWHyVELCEKdk-G9MjnxAT1KUFSAGnvKlQhNOWqc6CgW1hnHWZWtzET2HE7RVvcEAygGEC7EWZCNYLGg-YOfFsSC8891sab4fovAknL8ZjVavhmvW_qDKwAKvbknjnDzWEBM0q77ufa91WqPTBNnTL0frfQJenvKpk6NP6mj_ng0z8mTMAW8FkGZsJCgCAKMjpN2cY7twgjkYQp3sC4wTRquM7z1S3zPVClPaYMtUBMug-IB0l9K2mMA?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop-JrKtjvgIQUo_hDWIu9x3tRiFHo79WsTa6kD3Qg6CKHTN12WtJniBhQ7W1nB5ol64tQrXTsRqyI8-g3ynufixwLJ5EDDaYgd8Uq8YXWOfKor-GFudjXGbjCVsvTwzbvif0JSpZWzUg53U51q34sXL2KzrC3aBHje7Ujym3kZBq_RXHfhcMO2orboDxV-Kowvog6Q9qm4nqDZ55xI4tQeLLJw3j2qornf_zDuDwAgVnSkIENGHh9874vk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqRxWHyVELCEKdk-G9MjnxAT1KUFSAGnvKlQhNOWqc6CgW1hnHWZWtzET2HE7RVvcEAygGEC7EWZCNYLGg-YOfFsSC8891sab4fovAknL8ZjVavhmvW_qDKwAKvbknjnDzWEBM0q77ufa91WqPTBNnTL0frfQJenvKpk6NP6mj_ng0z8mTMAW8FkGZsJCgCAKMjpN2cY7twgjkYQp3sC4wTRquM7z1S3zPVClPaYMtUBMug-IB0l9K2mMA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9772514,38.890472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I.E.S. San José</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopU4Ol7Na5gns6H1V3FswxTpf27cJwoe36f0bg6J3cdydeRbSXYFSC-U6Zw1Md6p1aU-p35H7ZjdhBOrnMVihpaMjA4h6FDir8MEmk2owFtaWQs1N9GblvJwQ2dE067EwqdZ0I26EP079yRUkY88ZtfXzjkJDh2vyam2rTEc1P3OVRj5LnufT-cOBxvv4ar0ELYeXOAZ34UOpEWuRR5feT2Lnq8eYzOqvW1N_lcTO6SrtcQTCFI5ECtNX8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Correo electrónico: ies.sanjosebadajo@edu.juntaex.es<br>Facebook: https://www.facebook.com/iessanjoseba/?locale=es_ES<br>Instagram: https://www.instagram.com/iessanjoseba/?hl=es<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq8C6xAFozR4hmcAivReaWAGWjwjaFkj4UjyN3bRLPBx4EdIFa67gK05b1vKSIvCGc-Yknf5EcqA2gMZmCrfO5mKsE2Rew1JyfdXxFGm6WMSwUGsy77UDGNlO_pU3D_6ynyCj0K-JlNdTIkc3tBsm9EcpVUek3uxfje7M-mUpwLbgbCiojf-bn5ShHMwnoOYDJCXA3SjrCZ227fVUFuBdB7qeRefloYdprziYBRGym3IRKRcBxNNghFs3I?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopU4Ol7Na5gns6H1V3FswxTpf27cJwoe36f0bg6J3cdydeRbSXYFSC-U6Zw1Md6p1aU-p35H7ZjdhBOrnMVihpaMjA4h6FDir8MEmk2owFtaWQs1N9GblvJwQ2dE067EwqdZ0I26EP079yRUkY88ZtfXzjkJDh2vyam2rTEc1P3OVRj5LnufT-cOBxvv4ar0ELYeXOAZ34UOpEWuRR5feT2Lnq8eYzOqvW1N_lcTO6SrtcQTCFI5ECtNX8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq8C6xAFozR4hmcAivReaWAGWjwjaFkj4UjyN3bRLPBx4EdIFa67gK05b1vKSIvCGc-Yknf5EcqA2gMZmCrfO5mKsE2Rew1JyfdXxFGm6WMSwUGsy77UDGNlO_pU3D_6ynyCj0K-JlNdTIkc3tBsm9EcpVUek3uxfje7M-mUpwLbgbCiojf-bn5ShHMwnoOYDJCXA3SjrCZ227fVUFuBdB7qeRefloYdprziYBRGym3IRKRcBxNNghFs3I?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.977863,38.8908101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Escuela de aprendizaje laboral 'Fuerte de San Cristóbal']]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooQzBUCoRGAdwM0HMbf1yTNdozfjKDDtrAJMx2qqK0Wu6d-OJFOqsu4OE4MUPuY8drJZUPHRAFwkDLLjkICZyhOY-7S8tRn4OeLN7mqJuEvSEZlgghX_CuI28TxQZIzYdTTUQ4lV_DgYOfp5b9F_HkkGdZW76RQuJYFvHwOmuKkRoBUQa9M1a57BEkpDtc7XOZ-c99kVNGu8EgehtNrs4qAiCW05jMEbfGP1r2Ko4tJCmEkKjqf6uDd3Ts?authuser=0&fife=s16383" height="200" width="auto" /><br><br>- https://www.aytobadajoz.es/es/ayto/especiales/especial/57018/escuela-de-aprendizaje-laboral-39fuerte-de-san-cristbal-39-programa-escala<br>- https://www.facebook.com/people/UPB-Formaci%C3%B3n-y-Empleo-Badajoz/61555144118233/<br>- https://www.instagram.com/formacionbjz/<br>- https://x.com/formacionbjz]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooQzBUCoRGAdwM0HMbf1yTNdozfjKDDtrAJMx2qqK0Wu6d-OJFOqsu4OE4MUPuY8drJZUPHRAFwkDLLjkICZyhOY-7S8tRn4OeLN7mqJuEvSEZlgghX_CuI28TxQZIzYdTTUQ4lV_DgYOfp5b9F_HkkGdZW76RQuJYFvHwOmuKkRoBUQa9M1a57BEkpDtc7XOZ-c99kVNGu8EgehtNrs4qAiCW05jMEbfGP1r2Ko4tJCmEkKjqf6uDd3Ts?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9729493,38.8877776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEPA ABRIL- Aula UVA</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop45p0XtZ1o-qFTwXJePuVmXLyyQXqAefPiZcTfBiWufQZi13M_IEHZsGW6hQxH_pKRuJJCwdcZoyOgpx_fCRjKMcbIHstBHFYVmR4crTEM6p6lwcl7xAEK2MXU7CiG4wgka7VG5gr9c-3E6WqaDr8aNtHCjjjPiYiN-QvY_emmv-lfJwE-7EnOYxTxNhbkhHX3E6UgRrm81n80S5R0PqRKUxcr4PAd__ypGoAUWoQjhDFw5r4G2oIPh3w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1526-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop45p0XtZ1o-qFTwXJePuVmXLyyQXqAefPiZcTfBiWufQZi13M_IEHZsGW6hQxH_pKRuJJCwdcZoyOgpx_fCRjKMcbIHstBHFYVmR4crTEM6p6lwcl7xAEK2MXU7CiG4wgka7VG5gr9c-3E6WqaDr8aNtHCjjjPiYiN-QvY_emmv-lfJwE-7EnOYxTxNhbkhHX3E6UgRrm81n80S5R0PqRKUxcr4PAd__ypGoAUWoQjhDFw5r4G2oIPh3w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.979155,38.8919572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Asociaciones</name>
+      <Placemark>
+        <name>Asociación de vecinos - El Progreso</name>
+        <description>Fomenta relaciones vecinales. refuerza la identidad del barrio. Correo electrónico: av_elprogreso@hotmail.com  Facebook: https://www.facebook.com/av.elprogreso/photos?locale=es_ES</description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9811372,38.8927815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de vecinos de las 800</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoohjI7gc3s_T9iVMAaPj_pBQo9gH7t2q-pNlqN3YXeIKokoL_-BKPuUTjiBiN5rSpBArxBLjYj3j-xOT-13VXsG5nVzpZZkBG3VOuvOqlrqTyXbi0hqxB9fLCnEq63TKzQdkItjbYw8evQZ5Zng46KxYy97xwtupDdH03ggxwne9v6-PV6_HVUU4aDzT6-nmRTNnNw74PXV307TnwRRr1OXbjG3LS2QQZEXS3xF2XtHVOxgsr8d1jgQLYA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>La asociación se encuentra dentro del centro de mayores.]]></description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoohjI7gc3s_T9iVMAaPj_pBQo9gH7t2q-pNlqN3YXeIKokoL_-BKPuUTjiBiN5rSpBArxBLjYj3j-xOT-13VXsG5nVzpZZkBG3VOuvOqlrqTyXbi0hqxB9fLCnEq63TKzQdkItjbYw8evQZ5Zng46KxYy97xwtupDdH03ggxwne9v6-PV6_HVUU4aDzT6-nmRTNnNw74PXV307TnwRRr1OXbjG3LS2QQZEXS3xF2XtHVOxgsr8d1jgQLYA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9765834,38.8928781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de vecinos de Santa Engracia.</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqZYMoN1lltE4yFWETX-dZN2Y26KrOpopK11X2g5elo-1JqglxTVjoyiRngGtLYi9JQz1eproIGPe9JCEMjWS6J5PxRPrmCRCdjPXjLhA42BM7FnDtcWEA7_0C_PwQFzfWFz-H0s3D7ZLFOOjnRZwPT1FO_vsRJ2F4nYPHil9RtXXI55n7PP305ruUISJq-s8DDBP6Q-zfa23rZhgIjsW1kcgyJatrXG7cmF3-K7IMwW270qMZ5v_MPY58?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Ayuda a mejorar el barrio. Cohesión social. Cultura y ocio. Correo electronico: <br>aavvsantaengracia@gmail.com. Facebook: https://www.facebook.com/p/AAVV-Santa-Engracia-UVA-100066807176382]]></description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqZYMoN1lltE4yFWETX-dZN2Y26KrOpopK11X2g5elo-1JqglxTVjoyiRngGtLYi9JQz1eproIGPe9JCEMjWS6J5PxRPrmCRCdjPXjLhA42BM7FnDtcWEA7_0C_PwQFzfWFz-H0s3D7ZLFOOjnRZwPT1FO_vsRJ2F4nYPHil9RtXXI55n7PP305ruUISJq-s8DDBP6Q-zfa23rZhgIjsW1kcgyJatrXG7cmF3-K7IMwW270qMZ5v_MPY58?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9784279,38.8929544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de vecinos Nuestra Señora de la Asunción</name>
+        <description><![CDATA[Cohesión vecinal. Ayuda al barrio. Se encuentra en el Centro Social Gurugú.<br>Correo electrónico<br>ricardo.cabezas@hotmail.es]]></description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9790324,38.8963054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión comunitaria.</name>
+        <description>Reunión una vez al mes. Ayuda a resolver problemas del barrio. Genera bienestar.</description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9779351,38.8908475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grupo alcanzando sueños</name>
+        <description>Se encuentra dentro de las instalaciones de la Asociación de vecinos El Progreso. Espacio en el que se comparten momentos de dificultad.</description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9812414,38.8927444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de promoción de la mujer El Progreso.</name>
+        <description>Se encuentra dentro de las instalaciones de la Asociación de vecinos El Progreso. Apoyo a las mujer del barrio, se realizan diferentes actividades.</description>
+        <styleUrl>#icon-1591-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9811769,38.8927115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antonia Nieto</name>
+        <description>Vocal de la asociación Avanzando. Impulsora de la lucha social y de la igualdad en la mujer. Coordinadora y referente de los Centros de Promoción de la mujer del barrio, contribuyendo al empoderamiento de la mujer.</description>
+        <styleUrl>#icon-1873-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9814215,38.8939863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Centro de adultos/mayores</name>
+      <Placemark>
+        <name>Centro de mayores de las 800</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorVQPBJBd08l85giT8wF9Doxb7ylPChyWZ4ubum1o6QvYK0Iwah2FFgtxacIivv0xJyXs5kDFIEjm-AGnvuftG4261j9WPzWT7d277Y1e93ohwZOg7zR0Sg6obI7yQ4BzgNA4LMhwtbEHjVUSULx-GFlg-ltrFWPKrovjkkODW0cnJqFRnJo46eDn-Sxk-6Bq_lokgYdXH9xQWaz8_rX2B8cWP2fWWra0-X6-R_z7j07TrODuGMC6dfQVY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Se ofrecen los Servicios de:<br>• Cafetería-Bar <br>• Sala de juegos<br>• Sala de lectura<br>• Peluquería<br>• Gimnasia<br>• Podólogo                                                                      Se realizan actividades para los niños]]></description>
+        <styleUrl>#icon-1837-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorVQPBJBd08l85giT8wF9Doxb7ylPChyWZ4ubum1o6QvYK0Iwah2FFgtxacIivv0xJyXs5kDFIEjm-AGnvuftG4261j9WPzWT7d277Y1e93ohwZOg7zR0Sg6obI7yQ4BzgNA4LMhwtbEHjVUSULx-GFlg-ltrFWPKrovjkkODW0cnJqFRnJo46eDn-Sxk-6Bq_lokgYdXH9xQWaz8_rX2B8cWP2fWWra0-X6-R_z7j07TrODuGMC6dfQVY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9765827,38.8928577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de mayores Campomayor</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooXoz61aKR23Q3B0Ufv4U4m7lThydsYjSYQX5ho5F_iIiPrInNevp8qocghpFSPZYWuJ8EihYXLHzf0aPeaHWmUJYradDPsJt8ryQAez0uvPuN1YAGQ_iswF4FzhLTUb_jXRaSmQj0it5fArH5FDHcVYdaFuKJo6XXXRhoKmBf_-PgdCS7wna07kKRxoykJKZVaz7frG7QSe187CsPvDlEeUC3kxHUYjr0aIK9VLSdPQ6gx9Ft095_4zUo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bienestar físico y mental., actividades y relaciones sociales. Correo electrónico: cm.campomayor@salud-juntaex.es<br>Horario de invierno: De Lunes a Domingo de 10:00 a 14:00h. y de 16:00 a 20:00h.<br>Horario de verano: De Lunes a Domingo de 9:30 a 14:00h. y de 17:00 a 20:00h.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopR80Qy00wG5x1OLkVO3tbJNHCDkpOPqKwmGhO1-DZHhW37vPv6_UgF2JyA0t-zbP3P3oTiqfJrCW-1r6BEPNG1M45gZtx4DTT--yeow7Njv-4TXatGd37NdPXP16TVZyoXAjTX5ZIJPrXr_BMvR_6MYQlKRPAceVX5hwMwi0-v70efWw0d-oTX4NhEhZTAJcAKJzl4uZ3YL-A5Thy5bRNsIOROaPeKskxJVJAcUaFkSRfLhcdymoT01Yg?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopKwnYC_zW2lD8thc5rffgdvuM_Iwh6bTw3OYyaq_drPSr4NNIorxlPWTLQDzK97NzjfbeRUU-6mFgFCe_9LFc7YLugnpQ3plFCQA88L8wcHbe_ElQV70wXHBu13CfkGzpB4WVd2b51saLPiWIVOzhVu5xwL2Fg_lzfjc_bzhP6pm0RLANSUiSB6cfTC_Aw10kkwm4ZUVvORbnrEFYRJ8TXhgBvbGudKNS2PBDT3IzTggef_H1ezOq0jg4?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq1NwWWaEh4TB1lEcrOTsu41qmQSgrfqLioB1ZarcJfvsdkl1_N4i87BqEprTMIzGLwMqjHUJOxKatlASC9gedm2cwpMTsrGInmgpHEDjQ1HBI4a0tsLNlQHl6hSv2vemwJ9uWK95qU7-IybVo2MMyC6D8sHR3EKFQhXaseK7EJnryEAvXvr1K9qnz80FivcYADaiwk8E80JE1aJkLyE8sxDhtbidtwnBJ4fk_TmXFXwKM6psJ2q_1MVsY?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1837-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooXoz61aKR23Q3B0Ufv4U4m7lThydsYjSYQX5ho5F_iIiPrInNevp8qocghpFSPZYWuJ8EihYXLHzf0aPeaHWmUJYradDPsJt8ryQAez0uvPuN1YAGQ_iswF4FzhLTUb_jXRaSmQj0it5fArH5FDHcVYdaFuKJo6XXXRhoKmBf_-PgdCS7wna07kKRxoykJKZVaz7frG7QSe187CsPvDlEeUC3kxHUYjr0aIK9VLSdPQ6gx9Ft095_4zUo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopR80Qy00wG5x1OLkVO3tbJNHCDkpOPqKwmGhO1-DZHhW37vPv6_UgF2JyA0t-zbP3P3oTiqfJrCW-1r6BEPNG1M45gZtx4DTT--yeow7Njv-4TXatGd37NdPXP16TVZyoXAjTX5ZIJPrXr_BMvR_6MYQlKRPAceVX5hwMwi0-v70efWw0d-oTX4NhEhZTAJcAKJzl4uZ3YL-A5Thy5bRNsIOROaPeKskxJVJAcUaFkSRfLhcdymoT01Yg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopKwnYC_zW2lD8thc5rffgdvuM_Iwh6bTw3OYyaq_drPSr4NNIorxlPWTLQDzK97NzjfbeRUU-6mFgFCe_9LFc7YLugnpQ3plFCQA88L8wcHbe_ElQV70wXHBu13CfkGzpB4WVd2b51saLPiWIVOzhVu5xwL2Fg_lzfjc_bzhP6pm0RLANSUiSB6cfTC_Aw10kkwm4ZUVvORbnrEFYRJ8TXhgBvbGudKNS2PBDT3IzTggef_H1ezOq0jg4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq1NwWWaEh4TB1lEcrOTsu41qmQSgrfqLioB1ZarcJfvsdkl1_N4i87BqEprTMIzGLwMqjHUJOxKatlASC9gedm2cwpMTsrGInmgpHEDjQ1HBI4a0tsLNlQHl6hSv2vemwJ9uWK95qU7-IybVo2MMyC6D8sHR3EKFQhXaseK7EJnryEAvXvr1K9qnz80FivcYADaiwk8E80JE1aJkLyE8sxDhtbidtwnBJ4fk_TmXFXwKM6psJ2q_1MVsY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9819862,38.8938111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Social Gurugú</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorjuqYqca63DVV5_jBx88r-e4Su5xY_53VSJwLQnOqc1TsllguveeWBC7P8yGo-HpfTDXjyqG-zU4VyyoqZeyAPCeVjvvSRt5wzh8NOGeIYS1vQzlGCHjN8snIp7VbGvqsabHZXAyjU8sInVTwbsX8B0vL6ga0WhS-FJjC2Vcdd04T3h9Nma9ngMegSUoBhhmHwV1HRpQxDfr-R01B-bIk5g0VC5OtnOSN5v4CkapeMV_sBT-GmX4RR5YA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Diferentes actividades. Mejoras las oportunidades de futuro. Teléfono: 924 27 75 94]]></description>
+        <styleUrl>#icon-1837-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorjuqYqca63DVV5_jBx88r-e4Su5xY_53VSJwLQnOqc1TsllguveeWBC7P8yGo-HpfTDXjyqG-zU4VyyoqZeyAPCeVjvvSRt5wzh8NOGeIYS1vQzlGCHjN8snIp7VbGvqsabHZXAyjU8sInVTwbsX8B0vL6ga0WhS-FJjC2Vcdd04T3h9Nma9ngMegSUoBhhmHwV1HRpQxDfr-R01B-bIk5g0VC5OtnOSN5v4CkapeMV_sBT-GmX4RR5YA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9789201,38.8961727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Religiones</name>
+      <Placemark>
+        <name>Parroquia Nuestra Señora de La Asunción</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorD6kRu0EYSRaLE0BW4IpOeGqohdDNcOljp6F6BZOhQu4dUBba-tZWLA3h2YRIXdj-7RSMgVPAQVMyOqJfK5TdscIsNdxF4_hI7XjL1qP-seJSQFstHxjupjpdtgN2CvRR--GWbgASuDccqzbZB_jjr5I-WUZpr19av-MbYwerC072IpbDCceKEyhU0Fy-bcPkA-wVmGmWkQpXSL9QXxBmGiUB0lANhS58Ex92nM5M7wS-V-l-XnkpI1iY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1670-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorD6kRu0EYSRaLE0BW4IpOeGqohdDNcOljp6F6BZOhQu4dUBba-tZWLA3h2YRIXdj-7RSMgVPAQVMyOqJfK5TdscIsNdxF4_hI7XjL1qP-seJSQFstHxjupjpdtgN2CvRR--GWbgASuDccqzbZB_jjr5I-WUZpr19av-MbYwerC072IpbDCceKEyhU0Fy-bcPkA-wVmGmWkQpXSL9QXxBmGiUB0lANhS58Ex92nM5M7wS-V-l-XnkpI1iY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9785547,38.8945807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mezquita de Badajoz</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq-joWyL8OiOkti94MLaCXo8Rfo6GyiOhnQ8i6LSaymPJ83ZaFduQQ3gimtnM5_s7QJWcH8mDIyiQXz3oO2ylBXzEIJiCXvRbqlgGBCLvrRPLx_iknGRNuTvzFFu-QAOgd3fP5l_YHlzIGk2IbN55rgDhqaC9F7VMvXeedIqoQpfrQJqm7hjX5KMvfPSGP2Fq_CAD531_vNPK097Z_TMxYyFgqd4QtW-nlrY4B-EVox559LVNDBgLtUoPQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Correo electrónico: mezquitabadajoz@hotmail.com<br>Facebook: https://www.facebook.com/mezquita.badajoz/?locale=es_ES<br>https://batalius.blogspot.com<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqtIOfDfQAXhLtw9c3fI6jmbwZY3fjaujVf1s7IxccNraH8-bE-Ng_kU9Dm0WNZRmNG8O1wpI4zeSieAr5MGsYZx70UcVbjMUSUVEFl5L-gXIodz4ktOvbdmLaSAFafrz3KB9sbJqCJPDp4k77HqGLcgJAiZR9sx0TdyIqv9oNDqlGAw40aPxtduTxFQGcecEll_h1154gHLBNC7CVVUrasKGnOk-Zg-Q6HfA2IHwJ1H13sa7izMX_ZT6o?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1673-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq-joWyL8OiOkti94MLaCXo8Rfo6GyiOhnQ8i6LSaymPJ83ZaFduQQ3gimtnM5_s7QJWcH8mDIyiQXz3oO2ylBXzEIJiCXvRbqlgGBCLvrRPLx_iknGRNuTvzFFu-QAOgd3fP5l_YHlzIGk2IbN55rgDhqaC9F7VMvXeedIqoQpfrQJqm7hjX5KMvfPSGP2Fq_CAD531_vNPK097Z_TMxYyFgqd4QtW-nlrY4B-EVox559LVNDBgLtUoPQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqtIOfDfQAXhLtw9c3fI6jmbwZY3fjaujVf1s7IxccNraH8-bE-Ng_kU9Dm0WNZRmNG8O1wpI4zeSieAr5MGsYZx70UcVbjMUSUVEFl5L-gXIodz4ktOvbdmLaSAFafrz3KB9sbJqCJPDp4k77HqGLcgJAiZR9sx0TdyIqv9oNDqlGAw40aPxtduTxFQGcecEll_h1154gHLBNC7CVVUrasKGnOk-Zg-Q6HfA2IHwJ1H13sa7izMX_ZT6o?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9796448,38.8947788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sitios de interés</name>
+      <Placemark>
+        <name>Centro de Salud - El Progreso</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopSc1spR-Heu28a9dzFeu-NbvBuYmTvj7tmWT7J6CnCwu28GdyI5hl15t4hKu32x6WzmRVBDx0oY53bf2hWzmTHu2gEFPz51DtRnAeqqMbF29p0Jz8KINW0jvK0lwpqIw7oTDCP5mzx-NtPRdgCI1YGTTvxMxzkmDwj8nLs0hIIOf8uY64zG6DTVNgslK_9my_aCinFy5jB7AdHCaYWGkB1LzDPdytlcGA7el5li3eLfxxFaGTrm0OHtVI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Salud y bienestar. Facebook: https://www.facebook.com/proyectoprogresobadajoz/?locale=es_ES<br>Instagram: https://www.instagram.com/cselprogreso.badajoz/<br>Proyecto Progreso: https://proyectoelprogreso.blogspot.com/]]></description>
+        <styleUrl>#icon-1624-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopSc1spR-Heu28a9dzFeu-NbvBuYmTvj7tmWT7J6CnCwu28GdyI5hl15t4hKu32x6WzmRVBDx0oY53bf2hWzmTHu2gEFPz51DtRnAeqqMbF29p0Jz8KINW0jvK0lwpqIw7oTDCP5mzx-NtPRdgCI1YGTTvxMxzkmDwj8nLs0hIIOf8uY64zG6DTVNgslK_9my_aCinFy5jB7AdHCaYWGkB1LzDPdytlcGA7el5li3eLfxxFaGTrm0OHtVI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9781724,38.8917467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farmacia Sara Llorente Cancho</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorRZ3h1l5L_HJKOkCOUPY6Tb1iv0LAjTWxf4wDlEbbqRvbPRZyx0FPrAGqAE-NuhhXB3HjQqEg2qiFHZB35DpWYbA2D3CZ1173m6tZAAFZEIvIJ8qFDcxHwe8fw6FdHfol8pgzhPzbdsJA-KbfH2V7WiGz_sdsb6M-UBkIXxf04bBIBA_mjPvPwzT8Qyr9PCAKmk0oSiloABpPB8nIbpdwCIBHTzqdHzpAHzjwjj2Wv0IXmX4EpeEwJ2WM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Consejos de salud. Compromiso con la comunidad. Móvil/WhatsApp: 650785286<br>Horario: Todos los días de 9:30 a 22:00 h.]]></description>
+        <styleUrl>#icon-1841-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorRZ3h1l5L_HJKOkCOUPY6Tb1iv0LAjTWxf4wDlEbbqRvbPRZyx0FPrAGqAE-NuhhXB3HjQqEg2qiFHZB35DpWYbA2D3CZ1173m6tZAAFZEIvIJ8qFDcxHwe8fw6FdHfol8pgzhPzbdsJA-KbfH2V7WiGz_sdsb6M-UBkIXxf04bBIBA_mjPvPwzT8Qyr9PCAKmk0oSiloABpPB8nIbpdwCIBHTzqdHzpAHzjwjj2Wv0IXmX4EpeEwJ2WM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9790312,38.8915951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farmacia Joaquín Albarrán Hinojosa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq_tMlsqsevPvuBzdoTjjWI6qhtMop1ediviwIp4Saa-VgnyiT5qVtZv9xyApzduPybS8VhpEuhGnQzp_G2wsNJjMTikinHbro3xrZWQhcUbz83YGZNmVRpXDRPl7HdtKXTlzpzlBOzcr-q1IaIS1OcAOj4DrXT51GdM4BX5pV4BL3CLu4uVuEXcfUJFzmjtNOuwTVV1cU1htpqdL8VEQOnzvP8qTw2Wrs5Zy8txQNN3K1kqcyE1_9NizE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Horario: De Lunes a Viernes de 9:30 a 14:00 h y de 17:30 a 20:30 h.<br>Sábados y Domingos de 10:00 a 14:00 h.]]></description>
+        <styleUrl>#icon-1841-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq_tMlsqsevPvuBzdoTjjWI6qhtMop1ediviwIp4Saa-VgnyiT5qVtZv9xyApzduPybS8VhpEuhGnQzp_G2wsNJjMTikinHbro3xrZWQhcUbz83YGZNmVRpXDRPl7HdtKXTlzpzlBOzcr-q1IaIS1OcAOj4DrXT51GdM4BX5pV4BL3CLu4uVuEXcfUJFzmjtNOuwTVV1cU1htpqdL8VEQOnzvP8qTw2Wrs5Zy8txQNN3K1kqcyE1_9NizE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9792411,38.8950754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carnicería Linares</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorf5NvVd9F8Tz3rm_jxvqFaRjW-S_-49PhSYp9qprGXZmk-nH2gD8Ei6stkp7a01YPe3177ZWXp86XE1iSVvevcwmRhxvP4JM8XlyrIOGrXP4_otWSluvOZAyKy7zFqEFBP4MW2lSHL2zi6hdYOocF5bgzeZHWj9M9-EIMcYX16bQrNfzbjIY0ksdQDeg7cGTsZYN36A759IkY9HqsvScvaPVrzwLQONR93N3xIvLeg-Jam7gWQA9Wkxhg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Alimentación de calidad, ayuda a las personas con reparto a domicilio. Facebook: https://www.facebook.com/DomingoLinares78/?locale=es_ES<br>Instagram: https://www.instagram.com/carnicerialinares/]]></description>
+        <styleUrl>#icon-1685-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorf5NvVd9F8Tz3rm_jxvqFaRjW-S_-49PhSYp9qprGXZmk-nH2gD8Ei6stkp7a01YPe3177ZWXp86XE1iSVvevcwmRhxvP4JM8XlyrIOGrXP4_otWSluvOZAyKy7zFqEFBP4MW2lSHL2zi6hdYOocF5bgzeZHWj9M9-EIMcYX16bQrNfzbjIY0ksdQDeg7cGTsZYN36A759IkY9HqsvScvaPVrzwLQONR93N3xIvLeg-Jam7gWQA9Wkxhg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9798947,38.8945429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alimentación Rosario</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqz3XXLBNL2VOLRxUtiOTjMuMcKXookSQAEqvsfFnjSj7QO0tGP-QXcGli9NAuX7KMDkhiTVcQjLAbPUoDclAc37B67iQgX-Txik5LYKp9GNph4NgqlRHQ-3QfculWBytmZLPBJpjIvuj7fzrsndG7jMuAbyjsjuIpPRT0O01wi_nd9hI9gU4Od-a_vG1VA3WnIFREAwF7NiGnWG8Jyaes4Iy0292wm17CyUUETtwe1PYlo3Ep3Awa9lFo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Tienda de confianza. Cercanía.]]></description>
+        <styleUrl>#icon-1685-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqz3XXLBNL2VOLRxUtiOTjMuMcKXookSQAEqvsfFnjSj7QO0tGP-QXcGli9NAuX7KMDkhiTVcQjLAbPUoDclAc37B67iQgX-Txik5LYKp9GNph4NgqlRHQ-3QfculWBytmZLPBJpjIvuj7fzrsndG7jMuAbyjsjuIpPRT0O01wi_nd9hI9gU4Od-a_vG1VA3WnIFREAwF7NiGnWG8Jyaes4Iy0292wm17CyUUETtwe1PYlo3Ep3Awa9lFo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9787181,38.89587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Comedor Social "El Proposito"]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopH1dj3obMAv-TgbeXlr--91e0-fa9KxfK3pk6TwJhk_Xj8Lr1EFy4SMY3h_3h-MxZPXyCDQT3zYTXHCKzg2uSnoexnyjCn8NPC421sZV9pVCimvSMowZ1qh4K1CkEmMiGmcBSs7TLM24mYNo18O6DZajjXhwiRXTCWYJqOcxekuSFBjh5vn3rQEELswMVW1CR3HRNEgg-pnsNBuDM4deaZxHf2EqeAmcQWUoDJ0q8Ow8uWTu4okMMYFMk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Ayuda a familias desfavorecidas. Voluntariado. En avenida Padre Tacoronte.]]></description>
+        <styleUrl>#icon-1792-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopH1dj3obMAv-TgbeXlr--91e0-fa9KxfK3pk6TwJhk_Xj8Lr1EFy4SMY3h_3h-MxZPXyCDQT3zYTXHCKzg2uSnoexnyjCn8NPC421sZV9pVCimvSMowZ1qh4K1CkEmMiGmcBSs7TLM24mYNo18O6DZajjXhwiRXTCWYJqOcxekuSFBjh5vn3rQEELswMVW1CR3HRNEgg-pnsNBuDM4deaZxHf2EqeAmcQWUoDJ0q8Ow8uWTu4okMMYFMk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9774498,38.8908913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polideportivo Victor Diaz</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqq6nMcUtOjgzR6-eEVV0y1-rN2rss8cUiZncYJpy25nTQVwaopqaRH6rYE2IlH1al484NPcwD2gQ484qNNE4udIzVrBqOFXeSEFVzNs5_5j-ayBsR3SOsh-jrXhalHbE8OhFcEqjQDUbspsJLtMJ43XEerKntgFoaG15JRgdrruYshGAZ3Y7iS3CttKNPzOJTSV2pOxtKsXl1bEoV-c1u2Vk1eIRKM1_V3Js_xA6tAzI-0jIJjzck4F14?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1696-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqq6nMcUtOjgzR6-eEVV0y1-rN2rss8cUiZncYJpy25nTQVwaopqaRH6rYE2IlH1al484NPcwD2gQ484qNNE4udIzVrBqOFXeSEFVzNs5_5j-ayBsR3SOsh-jrXhalHbE8OhFcEqjQDUbspsJLtMJ43XEerKntgFoaG15JRgdrruYshGAZ3Y7iS3CttKNPzOJTSV2pOxtKsXl1bEoV-c1u2Vk1eIRKM1_V3Js_xA6tAzI-0jIJjzck4F14?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9773125,38.8939984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polideportivo Municipal Las Palmeras</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorDqz5Wd1xD1gq7o-RFGEW2tWvxAmZDKjEeY5RWuzxmLqlSjSgVHGJvHk559PwOZKGKI7tX0EWlcjyEJzNmcaLpGGu8M3IakI04UyYoLNsVMCKe6Kx21MtxB1o6LdOiPMHCLgIWV7wRJou8nA3XDJMelxI12pJP8rxwYfcN6BGGN9F3iDTRBvk5a1wpKkSkUd6TvvKPtF9kerLR-IeDvS0UGje2rU67p1xwRHlOOWclF3sxFBw0uyLIqLI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>- https://www.aytobadajoz.es/es/fmd/instalaciones/1469/polideportivo-quotlas-palmeras-quot<br>- https://www.facebook.com/pages/Polideportivo-Municipal-las-Palmeras/1016941618397483?locale=es_ES<br><br>Telefono: 924 27 64 40<br><br>Horario:<br>lunes 16:00–23:00<br>martes 16:00–23:00<br>miércoles 16:00–23:00<br>jueves 16:00–23:00<br>viernes 16:00–23:00<br>sábado Cerrado<br>domingo Cerrado]]></description>
+        <styleUrl>#icon-1696-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorDqz5Wd1xD1gq7o-RFGEW2tWvxAmZDKjEeY5RWuzxmLqlSjSgVHGJvHk559PwOZKGKI7tX0EWlcjyEJzNmcaLpGGu8M3IakI04UyYoLNsVMCKe6Kx21MtxB1o6LdOiPMHCLgIWV7wRJou8nA3XDJMelxI12pJP8rxwYfcN6BGGN9F3iDTRBvk5a1wpKkSkUd6TvvKPtF9kerLR-IeDvS0UGje2rU67p1xwRHlOOWclF3sxFBw0uyLIqLI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9715493,38.8920871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fuerte de San Cristóbal</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoondDmdJB6KKTPj7olqfELTCR6xMW6qRNud_ZGrdHiCMc1SqFMLMITdjMkHf8FB6-YraLNRoHqJJqkFBmKCOC-YW96wmOU9oSsli56j40-FB0shuCf_4VufZcPt509XTH77CChWGnjb5-YinlqXB3nFaUbNRwxERkFW3tdZda_Sg12cw8vDVr7kfqFsYHXggLfuiEonF_NcLRTwQ6CxQsWMltHC8c3oofh_TNn1GxtJo5fwiP44kcti08w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Horario:                                                                          lunes Cerrado<br>martes	Cerrado<br>miércoles	Cerrado<br>jueves	17:00–20:00<br>viernes	17:00–20:00<br>sábado	11:00–14:00, 17:00–20:00<br>domingo	11:00–14:00, 17:00–20:00]]></description>
+        <styleUrl>#icon-1598-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoondDmdJB6KKTPj7olqfELTCR6xMW6qRNud_ZGrdHiCMc1SqFMLMITdjMkHf8FB6-YraLNRoHqJJqkFBmKCOC-YW96wmOU9oSsli56j40-FB0shuCf_4VufZcPt509XTH77CChWGnjb5-YinlqXB3nFaUbNRwxERkFW3tdZda_Sg12cw8vDVr7kfqFsYHXggLfuiEonF_NcLRTwQ6CxQsWMltHC8c3oofh_TNn1GxtJo5fwiP44kcti08w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9728932,38.8878213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Parques/Zonas verdes</name>
+      <Placemark>
+        <name>Plaza de la Rana</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoouZ8gElmyLeQfK3IHF8hRelK1Dvum3p3C4w_ikCg_g0tOIfjyqt4QOUdFcAbMYXG2MtT2vPfs9MCOI6gmxjFhIEWngW6tIatFlZpUv3clYSEH4Dz4PDy-ifQo7A7jP0okzKI7BsHZpR_2gwrMyZK-qBVPSk9gpgbw-b7pxwM1A-aAfdOacFXACBP6BuheE1rV-fbC7cnBEh6U-cVk5KK-XpsA0jXhFDk7dp0KRNPj7ZDpjKGMNUGWLs_w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Juegos infantiles. Área de descanso. Punto de encuentro familiar.]]></description>
+        <styleUrl>#icon-1652-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoouZ8gElmyLeQfK3IHF8hRelK1Dvum3p3C4w_ikCg_g0tOIfjyqt4QOUdFcAbMYXG2MtT2vPfs9MCOI6gmxjFhIEWngW6tIatFlZpUv3clYSEH4Dz4PDy-ifQo7A7jP0okzKI7BsHZpR_2gwrMyZK-qBVPSk9gpgbw-b7pxwM1A-aAfdOacFXACBP6BuheE1rV-fbC7cnBEh6U-cVk5KK-XpsA0jXhFDk7dp0KRNPj7ZDpjKGMNUGWLs_w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9797656,38.8965263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Padre Eugenio</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopEm3kqXRIRWh-rDXEn70HJQPp4UT56xPJbZ7GhQEEV4h2D6WOIDKuIMpCHX3-kdz7c2x3po1Y5gQqkNB-T5cCaorP39BlymLdF7pcinxLLDKZad5lbMWLEzjOuLoi6HCh9J2HMuFcupetaznPDhcue-1CEtjPmWIaBdwZ_YFxgLPEExpgNYqoUP7IQojnNN9l6pVI0wyoNOjfPcZ22qc6EqcFBX83FrKPoL7LN_gRFs1u2lFrXAKSe7FA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Zona de vistas al barrio, bancos y paseos.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqsRXbq1_sN26QIGtYBM4BeY1m4paVomR7oWV8r5_S4iFq_bXsY6xH9H_3QxQ5vTnyBZ8fzUMhP7XfIsp-RgImPcRmTRd1uIMthEsGpQgm7jc32ZA7JodoDKOPSfx87psQ1m08mLKcEBQLbbA7EcuTQRLxcH7PW7nPEHazb_AVxZizrjI5y62LKvg87zf0i4WTGc-BVhHoDSLsXFvsBOP3zPksOT0J4hoxvjeyVxF15D8WMqUr34B-pI0o?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1652-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopEm3kqXRIRWh-rDXEn70HJQPp4UT56xPJbZ7GhQEEV4h2D6WOIDKuIMpCHX3-kdz7c2x3po1Y5gQqkNB-T5cCaorP39BlymLdF7pcinxLLDKZad5lbMWLEzjOuLoi6HCh9J2HMuFcupetaznPDhcue-1CEtjPmWIaBdwZ_YFxgLPEExpgNYqoUP7IQojnNN9l6pVI0wyoNOjfPcZ22qc6EqcFBX83FrKPoL7LN_gRFs1u2lFrXAKSe7FA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqsRXbq1_sN26QIGtYBM4BeY1m4paVomR7oWV8r5_S4iFq_bXsY6xH9H_3QxQ5vTnyBZ8fzUMhP7XfIsp-RgImPcRmTRd1uIMthEsGpQgm7jc32ZA7JodoDKOPSfx87psQ1m08mLKcEBQLbbA7EcuTQRLxcH7PW7nPEHazb_AVxZizrjI5y62LKvg87zf0i4WTGc-BVhHoDSLsXFvsBOP3zPksOT0J4hoxvjeyVxF15D8WMqUr34B-pI0o?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9778234,38.8941826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Árbol de morera en plaza Padre Eugenio</name>
+        <styleUrl>#icon-1720-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9769322,38.8946916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zona de descanso, sombra.</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq2zPFEzqPsVGzXI2vOR2LcchOriY_qHwZXpSgGxruEa4yzsEV2P1SzjjQQEhJ6xL7hZYIcohwSS5IOTVNFEp6R-e709MPo465lQIIERqF-rOzr-IEgpGyZ_Owjk7ETOMkutDEYC8nyHYHqq5XOj3_eV-jOHPbpJ9C7dy88FpMGdjWE1bgBBtKdA1wGWnLSAd4p_9c5mTI0vT1pZ0qwAOVhdZZwl-dYrg1EyB_euEbcUR4stbjzKdBxHMA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Zona de encuentro social, area de descanso y sombra. Momentos de entrada y salida de colegios e instituto próximos.]]></description>
+        <styleUrl>#icon-1720-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq2zPFEzqPsVGzXI2vOR2LcchOriY_qHwZXpSgGxruEa4yzsEV2P1SzjjQQEhJ6xL7hZYIcohwSS5IOTVNFEp6R-e709MPo465lQIIERqF-rOzr-IEgpGyZ_Owjk7ETOMkutDEYC8nyHYHqq5XOj3_eV-jOHPbpJ9C7dy88FpMGdjWE1bgBBtKdA1wGWnLSAd4p_9c5mTI0vT1pZ0qwAOVhdZZwl-dYrg1EyB_euEbcUR4stbjzKdBxHMA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9766028,38.8903683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Avenida del Sol/C. Zujar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor4xVnUyMJONz4URnwXXnMQswZTd3GFzcDqBJFNlIdaC0bou-QHLPTFhlnvj-PCQmlaiuJtZk5h-FO3r-H8gPPYRPRvA45B2bJFd-Pe9HG_jUujOPcjHo4slp8AuJsRedAwCgG0xgDOnqKiE7ldk_-RRXnNjXLKE0qWysrlu2rRPmmOiA9esEY9ePXjBXcDCfRSD4ElbrSqSSjjihyhOQ1jDIPQx1enjXrMgdRVh4wYvUsiKpbtSzlybmg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Punto de reunión familiar. Zona de juegos.]]></description>
+        <styleUrl>#icon-1720-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor4xVnUyMJONz4URnwXXnMQswZTd3GFzcDqBJFNlIdaC0bou-QHLPTFhlnvj-PCQmlaiuJtZk5h-FO3r-H8gPPYRPRvA45B2bJFd-Pe9HG_jUujOPcjHo4slp8AuJsRedAwCgG0xgDOnqKiE7ldk_-RRXnNjXLKE0qWysrlu2rRPmmOiA9esEY9ePXjBXcDCfRSD4ElbrSqSSjjihyhOQ1jDIPQx1enjXrMgdRVh4wYvUsiKpbtSzlybmg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9767734,38.8927561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque El Progreso</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop20WFkyrq9_6COhxkVXbW5QJ5K4XFMNYhs9vjRkRS2OHIT0Uw2G7q4WNQpMrC3uwTOgrtNp5q6Kl0xhsr3lH-xahichRKiEBV8AY93TsA8eH5ZSIs8lukA53x1L6s06fP9kTy8QHnQxb66EpqeCPcwDZZOy03MiYD-h42g8ZXWIan_xKXY8C2ZBrCIpO79V6pUC_W974LSTm_GwjTEnXeeHVEYjyXECsSnaTXWq9ZdnwpVNs5U0pnd7So?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lugar para paseos, deporte, pista de petanca. Zona con parque infantil. Pipi-can. Area de descanso y encuentro social.]]></description>
+        <styleUrl>#icon-1720-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop20WFkyrq9_6COhxkVXbW5QJ5K4XFMNYhs9vjRkRS2OHIT0Uw2G7q4WNQpMrC3uwTOgrtNp5q6Kl0xhsr3lH-xahichRKiEBV8AY93TsA8eH5ZSIs8lukA53x1L6s06fP9kTy8QHnQxb66EpqeCPcwDZZOy03MiYD-h42g8ZXWIan_xKXY8C2ZBrCIpO79V6pUC_W974LSTm_GwjTEnXeeHVEYjyXECsSnaTXWq9ZdnwpVNs5U0pnd7So?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.98114,38.8911869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zona verde en calle Gurugú</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqOe_3jNc_kqPpxrRqE8HKPwQAOhcBafvH1eXodab2qWqGMMNl0_6TLxXATY81Ke8ZBV5-J-903mOJ59pUHmX5w2WPK-rfq2ZCQeuMwpQBbZXBf1siaR6vItt4q0wTKh9jQx6OOQD8hfKjI9z-YjrtpVrzX25xAxz4ziBCeblgRUmiLw-VDfuDqFpb_IZl7ymiiKwHlmZr7oUjg-4vGmswequ2RkwrIo3G6ViPonYPhTvUAH5but4cfEXA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Espacio que aporta zonas de descanso y sombra.]]></description>
+        <styleUrl>#icon-1720-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqOe_3jNc_kqPpxrRqE8HKPwQAOhcBafvH1eXodab2qWqGMMNl0_6TLxXATY81Ke8ZBV5-J-903mOJ59pUHmX5w2WPK-rfq2ZCQeuMwpQBbZXBf1siaR6vItt4q0wTKh9jQx6OOQD8hfKjI9z-YjrtpVrzX25xAxz4ziBCeblgRUmiLw-VDfuDqFpb_IZl7ymiiKwHlmZr7oUjg-4vGmswequ2RkwrIo3G6ViPonYPhTvUAH5but4cfEXA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.980144,38.8945744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Personas relevantes</name>
+      <Placemark>
+        <name>Quinti</name>
+        <description>Una miembro activa de la Comisión Comunitaria.</description>
+        <styleUrl>#icon-1873-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9753937,38.8917607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salvador</name>
+        <description>Presidente de AAVV El Progreso. Compromiso social. Ayuda al barrio.</description>
+        <styleUrl>#icon-1873-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9812903,38.8926136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ricardo Cabezas</name>
+        <description>Referente del grupo de Scouts. Compromiso social. Impulsa el fortalecimiento del tejido comunitario.</description>
+        <styleUrl>#icon-1873-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9816094,38.8938098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manoli</name>
+        <description>Una miembro activa de la Comisión Comunitaria. Lucha social.</description>
+        <styleUrl>#icon-1873-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9815116,38.8939038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
